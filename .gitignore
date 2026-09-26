@@ -6,3 +6,4 @@ litellm-go
 
 # Go build artifacts
 /tmp/
+.dyad/
